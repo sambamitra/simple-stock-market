@@ -1,4 +1,4 @@
-(src/main/resources/banner.txt)
+# Simple Stock Market
 
 This is a simple stock market application.
 
