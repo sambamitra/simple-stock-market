@@ -36,6 +36,7 @@ public class Trade {
 			return this;
 		}
 	}
+
 	private BuySellIndicator buySellIndicator;
 	private int noOfShares;
 	private Date timestamp;
