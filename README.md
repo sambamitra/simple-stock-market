@@ -18,7 +18,9 @@ This is a simple stock market application.
 * No console input handling provided
 * The application is runnable solely from its tests
 * Clone the repository
-* Go to the project root and execute the commands :-
-  **mvn clean surefire-report:report, mvn site -DgenerateReports=false**
+* Go to the project root and execute the following 2 commands (in order)
+ 1. **mvn clean surefire-report:report**
+
+ 2. **mvn site -DgenerateReports=false**
 * Go to the **target** -> **site** directory and open the **surefire-report.html** file to view the test results
 
